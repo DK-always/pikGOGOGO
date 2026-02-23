@@ -299,6 +299,7 @@
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = GPStest/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = pikGO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSHealthShareUsageDescription = "需要讀取步數資料以進行數據同步測試。";
 				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "需要寫入步數資料以進行遊戲測試與 GPS 模擬";
@@ -349,6 +350,7 @@
 				ENABLE_USER_SELECTED_FILES = readonly;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = GPStest/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = pikGO;
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_NSHealthShareUsageDescription = "需要讀取步數資料以進行數據同步測試。";
 				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "需要寫入步數資料以進行遊戲測試與 GPS 模擬";
